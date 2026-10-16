@@ -1,0 +1,66 @@
+{
+  "meeting_id": "SYN-M01",
+  "revision": 1,
+  "synthetic": true,
+  "title": "جلسه نمونه ساختگی",
+  "calendar_system": null,
+  "timezone": null,
+  "sources": [
+    {
+      "source_id": "synthetic:notes-01",
+      "source_version": "1",
+      "source_kind": "synthetic",
+      "source_locator": "embedded:segment-2",
+      "segments": [
+        {
+          "segment_id": "synthetic:segment-2",
+          "text": "Prepare an example checklist; owner, deadline and acceptance criteria remain unresolved.",
+          "speaker_label": "Synthetic participant",
+          "attribution_status": "uncertain"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "action_id": "A01",
+      "revision": 1,
+      "source_refs": [
+        {
+          "source_id": "synthetic:notes-01",
+          "source_version": "1",
+          "segment_id": "synthetic:segment-2"
+        }
+      ],
+      "owner": null,
+      "owner_acceptance": null,
+      "due_date": null,
+      "due_at": null,
+      "original_due_expression": null,
+      "acceptance_criterion": null,
+      "acceptance_owner": null,
+      "review_status": "needs_clarification",
+      "routing_status": "not_queued",
+      "execution_status": "unknown/unreported",
+      "unresolved_fields": [
+        "owner",
+        "deadline",
+        "acceptance_criterion"
+      ],
+      "dependencies": [],
+      "next_review_at": null,
+      "approval": null,
+      "attempts": [],
+      "evidence": [],
+      "closure_acceptance": null,
+      "output_description": "تهیه چک‌لیست نمونه"
+    }
+  ],
+  "capabilities": {
+    "calendar": "unverified",
+    "messages": "unverified",
+    "persistent_register": "unverified",
+    "scheduler": "unverified"
+  },
+  "meeting_date": null
+}

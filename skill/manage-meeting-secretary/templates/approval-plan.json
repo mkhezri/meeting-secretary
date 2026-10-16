@@ -1,0 +1,19 @@
+{
+  "status": "proposed",
+  "actor": null,
+  "authorization_ref": null,
+  "object_id": null,
+  "revision": null,
+  "operation": null,
+  "destination": null,
+  "data_scope": null,
+  "payload_digest": null,
+  "follow_up": {
+    "cadence_or_trigger": null,
+    "timezone": null,
+    "escalation_recipient": null,
+    "escalation_condition": null,
+    "stop_condition": null
+  },
+  "runtime_verified": false
+}

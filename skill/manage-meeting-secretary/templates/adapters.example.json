@@ -1,0 +1,60 @@
+{
+  "synthetic": true,
+  "credentials_included": false,
+  "adapters": {
+    "source_reader": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "capture": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "transcription": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "calendar": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "messaging": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "register": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "evidence_reader": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "scheduler": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    },
+    "artifact_renderer": {
+      "provider": null,
+      "status": "unconfigured",
+      "last_verified_at": null,
+      "authorization_ref": null
+    }
+  }
+}

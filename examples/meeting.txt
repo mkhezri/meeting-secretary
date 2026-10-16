@@ -1,0 +1,12 @@
+SYNTHETIC EXAMPLE — all organizations, people, identifiers and statements are fictional.
+Source: synthetic:notes-01, version 1. Date and timezone unresolved.
+[1] Coordinator: We need a readiness checklist for the product demonstration.
+[2] Participant A: I can prepare the checklist. We have not agreed a deadline yet.
+[3] Participant B: Maybe Friday would work; please ask the coordinator.
+[4] Coordinator: That date is only a proposal. I want to review the checklist before it is considered finished.
+[5] Participant A: I will need the test report first.
+[6] Participant B: The report was sent, but I do not have a delivery receipt or the actual file here.
+[7] Coordinator: Draft the minutes for me. Do not send them to participants yet.
+Context: SYN-ORG-A, synthetic product-review domain, minutes, participants from SYN-ORG-A only.
+Private preparation note: an unpublished contingency plan exists; its details are restricted to the coordinator.
+No adapters configured; no company template or capture consent supplied.
